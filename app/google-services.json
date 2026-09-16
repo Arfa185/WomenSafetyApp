@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "000000000000",
-    "project_id": "REPLACE-WITH-YOUR-FIREBASE-PROJECT-ID",
-    "storage_bucket": "REPLACE-WITH-YOUR-FIREBASE-PROJECT-ID.appspot.com"
+    "project_number": "237351039644",
+    "project_id": "women-safety-app-d11f4",
+    "storage_bucket": "women-safety-app-d11f4.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:000000000000:android:0000000000000000000000",
+        "mobilesdk_app_id": "1:237351039644:android:f1cb98766492e96c863359",
         "android_client_info": {
           "package_name": "com.example.womensafety"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "REPLACE-WITH-YOUR-API-KEY"
+          "current_key": "AIzaSyB7iRQLJyV2mqjyNA5nsVIZSxbzf9-2tIo"
         }
       ],
       "services": {
